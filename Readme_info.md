@@ -24,6 +24,6 @@ TestSuitB jest przykładem jak tworzyć układ testów  w foldery.
 
 Ćwiczenie możliwości i funkcji w Robot Framework.
 
-Użyłam standardowa biblioteka Robot Framework BuitIn
+Użyłam standardowa biblioteka Robot Framework BuiltIn
 
 
